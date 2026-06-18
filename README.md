@@ -1,5 +1,16 @@
 # E-Commerce Sales Analysis
 
+Python | Pandas | NumPy | Matplotlib | Seaborn | Power BI
+
+## Project Highlights
+
+- Analyzed 9,994+ e-commerce transactions
+- Identified sales and profitability trends
+- Performed customer and category analysis
+- Built interactive Power BI dashboard
+- Generated actionable business insights
+
+
 ## Project Overview
 
 This project analyzes e-commerce sales data to identify revenue drivers, profitability trends, customer behavior, and category performance.
